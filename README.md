@@ -6,16 +6,6 @@ Jag letar ständigt efter spännande utmaningar där jag kan applicera mina kuns
 
 ---
 
-### 📊 Min GitHub-statistik
-
-Här kan du se en live-uppdaterad sammanställning av min aktivitet (inklusive privata projekt):
-
-<p align="left">
-  <img src="https://vercel.app" alt="Susannes GitHub Stats" width="450" />
-</p>
-
----
-
 ### 🛠️ Tekniker & Verktyg
 
 Här är de teknologier och verktyg som jag arbetar med och utvecklas inom:
