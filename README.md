@@ -6,6 +6,16 @@ Jag letar ständigt efter spännande utmaningar där jag kan applicera mina kuns
 
 ---
 
+### 📊 Min GitHub-statistik
+
+Här kan du se en live-uppdaterad sammanställning av min aktivitet på GitHub:
+
+<p align="left">
+  <img src="https://vercel.app" alt="Susannes GitHub Stats" width="400" />
+</p>
+
+---
+
 ### 🛠️ Tekniker & Verktyg
 
 Här är de teknologier och verktyg som jag arbetar med och utvecklas inom:
@@ -15,6 +25,12 @@ Här är de teknologier och verktyg som jag arbetar med och utvecklas inom:
 | **Språk & Ramverk** | ![C#](https://shields.io) ![.NET](https://shields.io) |
 | **Verktyg & Miljö** | ![Git](https://shields.io) ![Visual Studio](https://shields.io) ![GitHub](https://shields.io) |
 | **Fokusområden** | `Backend-utveckling` `Molnteknik` `Objektorienterad Design` |
+* **Språk & Ramverk:** 
+  `C#` | `.NET` | `Entity Framework`
+* **Verktyg & Miljö:** 
+  `Git` | `GitHub` | `Visual Studio` | `SQL Server`
+* **Fokusområden:** 
+  `Backend-utveckling` | `Molnteknik` | `Objektorienterad Design`
 
 ---
 
