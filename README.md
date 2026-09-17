@@ -1,34 +1,34 @@
-# Hej, Susanne Raattamaa heter jag! 👋
+# Hello, and Welcome to my GitHub ! 👋
 
-Välkommen till min GitHub! Jag är en driven **.NET-utvecklare** som studerar vid **JENSEN Yrkeshögskola**. Just nu fördjupar jag mig i objektorienterad programmering, backend-arkitektur och molnlösningar. 
+I am an aspiring **.NET Developer** studying at **JENSEN Yrkeshögskola**. Having **previously studied translation**, I have always been fascinated by linguistics. When AI-driven translation began advancing rapidly, it inspired me to switch gears—instead of just using the tools, I wanted to build them. Now, I am highly motivated to **apply my software development skills to language technology, localization tools, and AI processing**.
 
-Jag letar ständigt efter spännande utmaningar där jag kan applicera mina kunskaper inom C# och molnteknik!
+Right now, I am deepening my knowledge in object-oriented programming, backend architecture, and cloud solutions, looking for exciting challenges where language meets tech!
 
 ---
 
-### 🛠️ Tekniker & Verktyg
+### 🛠️ Tech Stack & Tools
 
-Här är de teknologier och verktyg som jag arbetar med och utvecklas inom:
+Here are the technologies and tools I work with and am developing my skills in:
 
-| Kategori | Teknologier & Verktyg |
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Språk & Ramverk** | `C#` • `.NET` • `Entity Framework` |
-| **Verktyg & Miljö** | `Git` • `GitHub` • `Visual Studio` • `SQL Server` |
-| **Fokusområden** | `Backend-utveckling` • `Molnteknik` • `Objektorienterad Design` |
+| **Languages & Frameworks** | `C#` • `.NET` • `Entity Framework` |
+| **Tools & Environments** | `Git` • `GitHub` • `Visual Studio` • `SQL Server` • `Azure` |
+| **Focus Areas** | `Backend Development` • `Cloud Computing (Azure)` • `Language Tech & AI Solutions` |
+---
+
+### 🚀 What I am focusing on right now
+* 💻 Deepening my knowledge of architecture patterns in **.NET C#**.
+* ☁️ Exploring **cloud technology** and how to build scalable backend systems.
+* 🤖 Merging my background in **translation studies** with **modern software and AI language tech**.
+* 🤝 Seeking exciting opportunities, internship (LIA) placements, and networking within the industry.
 
 ---
 
-### 🚀 Vad jag fokuserar på just nu
-* 💻 Fördjupar mina kunskaper inom arkitekturmönster i **.NET C#**.
-* ☁️ Utforskar **molnteknik** och hur man bygger skalbara backend-system.
-* 🤝 Söker spännande möjligheter, LIA-platser och nätverkande inom branschen.
+### 📫 Let's connect!
+Would you like to collaborate, discuss code, or share exciting challenges? 
 
----
-
-### 📫 Låt oss connecta!
-Vill du samarbeta, diskutera kod eller tipsa om spännande utmaningar? 
-
-* 💼 **LinkedIn:** [Besök min profil](https://se.linkedin.com/in/susanne-raattamaa)
+* 💼 **LinkedIn:** [Visit my profile](https://se.linkedin.com/in/susanne-raattamaa)
 
 
 <!--
