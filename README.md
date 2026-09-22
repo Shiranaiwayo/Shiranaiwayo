@@ -1,32 +1,36 @@
-# Hello, and Welcome to my GitHub ! 👋
+# Hello, and welcome to my GitHub! 👋 
 
-I am an aspiring **.NET Developer** studying at **JENSEN Yrkeshögskola**. Having **previously studied translation**, I have always been fascinated by linguistics. When AI-driven translation began advancing rapidly, it inspired me to switch gears—instead of just using the tools, I wanted to build them. Now, I am highly motivated to **apply my software development skills to language technology, localization tools, and AI processing**.
+I'm an aspiring **.NET Developer** currently studying at **JENSEN Yrkeshögskola**.
 
-Right now, I am deepening my knowledge in object-oriented programming, backend architecture, and cloud solutions, looking for exciting challenges where language meets tech!
+Before moving into software development, I studied **translation**, which sparked a long-standing interest in language and linguistics. As AI and language technology evolved, I became interested in moving from using these tools to **building technology myself**.
 
----
+I'm now developing my skills in **C#, .NET, backend development, and Azure**, with a particular interest in the intersection of **software, language technology, localization, and AI**.
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
-Here are the technologies and tools I work with and am developing my skills in:
+| Category                   | Technologies                                                   |
+| -------------------------- | -------------------------------------------------------------- |
+| **Languages & Frameworks** | `C#` · `.NET` · `Entity Framework` · `PowerShell`              |
+| **Database & Cloud**       | `SQL Server` · `Azure`                                         |
+| **Development Tools**      | `Git` · `GitHub` · `Visual Studio`                             |
+| **Focus Areas**            | `Backend Development` · `Cloud` · `Language Technology` · `AI` |
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages & Frameworks** | `C#` • `.NET` • `Entity Framework` • `Powershell`|
-| **Tools & Environments** | `Git` • `GitHub` • `Visual Studio` • `SQL Server` • `Azure` |
-| **Focus Areas** | `Backend Development` • `Cloud Computing (Azure)` • `Language Tech & AI Solutions` |
----
+## 🚀 Currently Learning
 
-### 🚀 What I am focusing on right now
-* 💻 Deepening my knowledge of architecture patterns in **.NET C#**.
-* ☁️ Exploring **cloud technology** and how to build scalable backend systems.
-* 🤖 Merging my background in **translation studies** with **modern software and AI language tech**.
-* 🤝 Seeking exciting opportunities, internship (LIA) placements, and networking within the industry.
+* Deepening my knowledge of **C# and .NET**
+* Exploring **backend architecture and design patterns**
+* Learning how to build and deploy applications using **Azure**
+* Developing projects that combine **software development and language technology**
+* Looking for **LIA / internship opportunities** and opportunities to grow as a developer
 
----
+## 📌 Featured Projects
+
+🔹 **[C# & .NET Fundamentals](https://github.com/Shiranaiwayo/Csharp.Net-Fundamentals)**
+A collection of projects documenting my progression in C# and .NET.
 
 ### 📫 Let's connect!
-Would you like to collaborate, discuss code, or share exciting challenges? 
+
+I'm always happy to connect with fellow developers, discuss technology, or explore opportunities within the .NET ecosystem.
 
 * 💼 **LinkedIn:** [Visit my profile](https://se.linkedin.com/in/susanne-raattamaa)
 
