@@ -12,7 +12,7 @@ Here are the technologies and tools I work with and am developing my skills in:
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages & Frameworks** | `C#` • `.NET` • `Entity Framework` |
+| **Languages & Frameworks** | `C#` • `.NET` • `Entity Framework` • `Powershell`|
 | **Tools & Environments** | `Git` • `GitHub` • `Visual Studio` • `SQL Server` • `Azure` |
 | **Focus Areas** | `Backend Development` • `Cloud Computing (Azure)` • `Language Tech & AI Solutions` |
 ---
